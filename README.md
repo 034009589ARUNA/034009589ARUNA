@@ -6,8 +6,6 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [arunakallonportfolio.netlify.app](arunakallonportfolio.netlify.app)
-
 - 💬 Ask me about **react and react native**
 
 - 📫 How to reach me **kallonaruna7@gmail.com**
